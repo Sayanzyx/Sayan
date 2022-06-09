@@ -5,7 +5,7 @@
 **About me:**
 - 💻 I'm developer since 2021
 - ⚛️ JavaScript | NodeJS 
-- 🚀 I'm CEO at <a href="https://website-da-yummyx.herokuapp.com"target="_blank">@Yummy</a>
+- 🚀 I'm CEO at <a href="https://website-da-yummyx.herokuapp.com" target="_blank">@Yummy</a>
 - 📫 How to reach me: [my site](https://sayanzyx.netlify.app), [instagram](https://www.instagram.com/sayanzyx/) or [twitter](https://twitter.com/Sayanzyx)
 
 
