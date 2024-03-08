@@ -8,7 +8,7 @@
 - 💻 I'm developer since 2015
 - ⚛️ JavaScript | Typescript | NodeJS | Html | Heroku | Python 
 - 🚀 I'm CEO at [@Yummy](https://website-da-yummy.netlify.app)
-- 📫 How to reach me: [My site](https://sayanzyx.netlify.app), [Instagram](https://www.instagram.com/sayanzyx/) or [Twitter](https://twitter.com/Sayanzyx)
+- 📫 How to reach me: [My site](https://sayanzyx2.netlify.app), [Instagram](https://www.instagram.com/sayanzyx/) or [Twitter](https://twitter.com/Sayanzyx)
 
 
 
